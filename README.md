@@ -1,5 +1,6 @@
 # Weather API
 ##### Author: Sayed Mahdi
+<img width="874" alt="Image" src="https://github.com/user-attachments/assets/5c45a15a-a891-434d-b0d2-8443ee3362b3" />
 
 <img src='images/weather.png' width='580'>
 
