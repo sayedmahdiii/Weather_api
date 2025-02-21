@@ -1,7 +1,7 @@
 # Weather API
-##### Author: Rakesh Kantharaju
+##### Author: Sayed Mahdi
 
-<img src='images/website.png' width='580'>
+<img src='images/weather.png' width='580'>
 
 <img src='images/api_sample.png' width='580'>
 
