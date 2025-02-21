@@ -4,7 +4,7 @@
 
 <img src='https://github.com/user-attachments/assets/5c45a15a-a891-434d-b0d2-8443ee3362b3' width='680'>
 
-<img src='images/api_sample.png' width='580'>
+<img src='[images/api_sample.png](https://github.com/user-attachments/assets/d932819c-391c-428f-bbe7-0f2ada2d24fc)' width='580'>
 
 ### Project Description:
 
